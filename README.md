@@ -11,6 +11,16 @@ notification sounds** on iOS + Android:
 
 The backend chooses which sound to trigger per notification.
 
+## Demo
+
+Real iOS-Simulator captures (iPhone 16e) driven by an integration test, see [FLOW.md](FLOW.md) for how they are generated.
+
+| Login | Support chat | Compose |
+| --- | --- | --- |
+| ![Login](screenshots/01-login.png) | ![Chat](screenshots/02-chat.png) | ![Compose](screenshots/03-compose.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Stack
 
 - Flutter + Dart
